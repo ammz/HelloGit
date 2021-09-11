@@ -11,6 +11,7 @@ public class Hello {
 
 	public static void main(String args[]) {
 		System.out.println("Antonio Moreno");
+		System.out.println("Computer Science");
 		System.out.println("Informática");
 	}
 }
